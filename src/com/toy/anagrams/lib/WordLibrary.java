@@ -38,6 +38,7 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
+    //Mark K00211723
     protected WordLibrary() {
     }
     
